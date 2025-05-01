@@ -2,7 +2,7 @@
 
 Weather App with Provider using OpenWeatherMap API
 
-## Getting Started
+## You Need To Know
 
 - In this code, you need to add your OpenWeatherMap API,
 - There are comments left in the code that you need to change.
